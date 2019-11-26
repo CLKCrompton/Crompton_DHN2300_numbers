@@ -485,7 +485,6 @@ mark,
   font-size: 80%;
   color: #919aa1;
   width: 50%;
-  text-decoration: underline;
 
 }
 
@@ -4241,10 +4240,12 @@ input[type="button"].btn-block {
 .nav-link {
   display: block;
   padding: 0.5rem 1rem;
+  text-decoration: none;
 }
 
 .nav-link:hover, .nav-link:focus {
   text-decoration: none;
+  background-color: #fff;
 }
 
 .nav-link.disabled {
