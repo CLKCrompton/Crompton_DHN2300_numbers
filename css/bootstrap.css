@@ -475,12 +475,15 @@ mark,
 .blockquote {
   margin-bottom: 1rem;
   font-size: 1.09375rem;
+  width: 50%
 }
 
 .blockquote-footer {
   display: block;
   font-size: 80%;
   color: #919aa1;
+    width: 50%
+
 }
 
 .blockquote-footer::before {
