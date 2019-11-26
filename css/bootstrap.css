@@ -404,6 +404,7 @@ h6, .h6 {
 .lead {
   font-size: 1.09375rem;
   font-weight: 300;
+  color: #343a40; 
 }
 
 .display-1 {
@@ -482,7 +483,7 @@ mark,
   display: block;
   font-size: 80%;
   color: #919aa1;
-    width: 50%
+  width: 50%
 
 }
 
